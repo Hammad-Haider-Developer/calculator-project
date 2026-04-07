@@ -25,5 +25,3 @@ Open index.html in your browser<br>
 Start using the calculator<br>
 🎯 Purpose of Project:<br>
 This project is created for front-end development practice and to demonstrate basic JavaScript functionality in a real-world mini application.
-
-This project is created for front-end development practice and to demonstrate basic JavaScript functionality in a real-world mini application.
